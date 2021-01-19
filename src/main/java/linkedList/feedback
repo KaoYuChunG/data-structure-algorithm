@@ -1,0 +1,5 @@
+Single linked list:
+只可單向查詢，並無法對當前節點做刪除動作。
+
+double linked list:
+可做雙向(從前面查，或從後面查)，可對當前的節點做刪除動作。
